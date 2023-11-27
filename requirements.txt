@@ -1,0 +1,13 @@
+pyttsx3==2.90
+datetime
+SpeechRecognition==3.8.1
+wikipedia==1.4.0
+webbrowser
+os-sys
+smtplib
+pywhatkit==5.2
+requests==2.26.0
+beautifulsoup4==4.10.0
+json
+pyautogui==0.9.62
+wolframalpha==5.0.0
